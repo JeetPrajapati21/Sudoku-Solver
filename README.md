@@ -1,2 +1,2 @@
 # Sudoku-Solver
-[https://jeetprajapati21.github.io/Sudoku-Solver/](click here)
+[click here](https://jeetprajapati21.github.io/Sudoku-Solver/)
