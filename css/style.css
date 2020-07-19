@@ -6,6 +6,20 @@ body {
 h1 {
 	color: #0abb9c;
 	font-size: 4rem;
+	margin-bottom: 0;
+}
+
+.contact a {
+  color:  #0abb9c;
+}
+
+.contact svg.svg-inline--fa {
+  font-size: 1.6rem;
+  margin-right: 0.5rem;
+}
+
+.contact svg.svg-inline--fa:hover {
+  color: #fff!important;
 }
 
 table.content {
@@ -29,6 +43,7 @@ table tr td:nth-child(3), table tr td:nth-child(6) {
 table tr td {
 	border-bottom: 2px dotted #0abb9c;
 	border-right: 2px dotted #0abb9c;
+	background-color: #fff;
 }
 
 .content td input {
